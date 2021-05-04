@@ -1,6 +1,6 @@
 # mockpoints
 
-NuxtJS Application for Telling Random Jokes(Fun Project)
+My first Ever NuxtJS Application for Telling Random Jokes(Fun Project)
 
 ## Build Setup
 
