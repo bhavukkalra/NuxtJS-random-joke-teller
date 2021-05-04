@@ -1,8 +1,8 @@
 `
 <template>
   <div>
-    <h1>About Dad jokes</h1>
-    <p>App that displays corny dad jokes</p>
+    <h1>About Corny jokes</h1>
+    <p>App that displays corny Corny jokes</p>
   </div>
 </template>
 
